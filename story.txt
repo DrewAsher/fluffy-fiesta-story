@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 This is the story of a lonely man at UW Madison. All he ever knew was coding and video games. One day this man has to make a decision. A decision that will forever change his life. He is invited to a party. Does he stay home and finish his CS assignment, or does he go? 
 
 That afternoon he decided to grind some homework first, but he took a look at his project he got desperate immediately and went out for party right away.
+=======
+This is the story of a lonely man at UW Madison. All he ever knew was coding and video games. One day this man has to make a decision. A decision that will forever change his life. He is invited to a party. Does he stay home and finish his CS assignment, or does he go?
+
+After a lot of deliberation, the man decided to go to the party. He was almost done with his assignment and was eady to have some fun. He ventured out of his appartment and down the street. His friend had sent him the address and he was on his way. As he walked up to the door of the party he heard lots of music and fun coming from inside. He knocked on the door and walked in.
+>>>>>>> 37094f273604238b36750e2390981b5e7c416377
